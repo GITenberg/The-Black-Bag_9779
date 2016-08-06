@@ -1,0 +1,40 @@
+_repo: The-Black-Bag_9779
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fogarty, Thomas
+    alias: Fogarty, Thomas J.
+    birthdate: 1873
+    deathdate: 1938
+    gutenberg_agent_id: '33090'
+    url: http://www.gutenberg.org/2009/agents/33090
+covers:
+- cover_type: archival
+  image_path: 9779/9779-h/images/covers.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Vance, Louis Joseph
+    birthdate: 1879
+    deathdate: 1933
+    gutenberg_agent_id: '2870'
+    url: http://www.gutenberg.org/2009/agents/2870
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewel thieves -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: The Black Bag
+url: http://www.gutenberg.org/ebooks/9779
