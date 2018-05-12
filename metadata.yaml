@@ -1,5 +1,5 @@
 _repo: The-Black-Bag_9779
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Fogarty, Thomas
@@ -10,9 +10,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/33090
 covers:
 - cover_type: archival
-  image_path: 9779/9779-h/images/covers.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 9779-h/images/covers.jpg
 creator:
   author:
     agent_name: Vance, Louis Joseph
@@ -21,6 +19,8 @@ creator:
     gutenberg_agent_id: '2870'
     url: http://www.gutenberg.org/2009/agents/2870
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9779#The-Black-Bag
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
